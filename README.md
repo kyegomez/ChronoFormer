@@ -203,7 +203,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - The PyTorch team for their excellent framework
-- The Anthropic team for their research on efficient attention mechanisms
 - All contributors who have helped to improve this project
 
 ## 📚 Citation
@@ -211,7 +210,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this model in your research, please cite:
 
 ```bibtex
-@software{efficient_transformer_2024,
+@software{chronoformer,
   author = {Kye Gomez},
   title = {Memory-Efficient Transformer for Time Series Analysis},
   year = {2024},
