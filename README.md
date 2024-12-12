@@ -197,7 +197,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📮 Contact
 
-- Your Name - [@yourusername](https://twitter.com/kyegomezb)
+- Your Name - [@kyegomez](https://twitter.com/kyegomezb)
 - Project Link: [https://github.com/yourusername/efficient-time-series-transformer](https://github.com/kyegomez/ChronoFormer)
 
 ## 🙏 Acknowledgments
